@@ -4,7 +4,7 @@ This repository contains a snippet you can use to create `AnnounceKit Source` on
 
 ## Setup
 
-Please check [setup guide](/setup.md).
+Please check [setup guide](/SETUP.md).
 
 ## Author
 
